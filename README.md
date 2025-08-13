@@ -20,6 +20,25 @@ Repo içinde bulunan temel notebook dosyaları:
 | `kuasar.ipynb` | Koyu kuasar (quasar) yapısını ve jetlerini işleyen dinamik simülasyon |
 | `pulsar.ipynb` | Pulsar ışınımı ve dönüş efektlerini betimleyen animasyon |
 | `theory-of-relativity.ipynb` | Görelilik teorisinin temel yaklaşım ve görsellik uygulamaları |
+| `inspiral-merger-ringdown.ipynb` | İki karadeliğin birbiri ile çarpışmasını betimleyen animasyon |
+| `hawking-radiation.ipynb` | Hawking radyasyonunu betimleyen animasyon | 
+
+---
+
+## 📂 Detay
+
+- **Kara Delik Simülasyonları:**
+  - Kerr kara deliği görselleştirmesi
+  - Hawking radyasyonu animasyonu
+  - İki kara deliğin birleşmesi (Inspiral-Merger-Ringdown) simülasyonu
+ 
+- **Astrofiziksel Olaylar:**
+  - Kuasar ve pulsar simülasyonları
+  - Işık bükülmesi (gravitational lensing) görselleştirmesi
+
+- **Teorik Fizik:**
+  - Görelilik teorisi ve kara deliklerin matematiksel modelleri
+  - Kara deliklerin iç olay ufku hesaplamaları
 
 ---
 
